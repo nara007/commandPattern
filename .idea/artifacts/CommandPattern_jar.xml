@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CommandPattern:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CommandPattern_jar</output-path>
+    <root id="archive" name="CommandPattern.jar">
+      <element id="module-output" name="CommandPattern" />
+    </root>
+  </artifact>
+</component>
